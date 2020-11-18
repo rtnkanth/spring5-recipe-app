@@ -5,3 +5,4 @@ import rtnk.springframework.domain.UnitOfMeasure;
 
 public interface UnitOfMeasureRepository extends CrudRepository<UnitOfMeasure, Long> {
 }
+
