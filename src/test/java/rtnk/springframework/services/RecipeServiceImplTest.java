@@ -20,7 +20,7 @@ import static org.mockito.Mockito.*;
 public class RecipeServiceImplTest {
     RecipeServiceImpl recipeService;
     @Mock
-            RecipeRepository recipeRepository;
+    RecipeRepository recipeRepository;
 
     @Mock
     RecipeToRecipeCommand recipeToRecipeCommand;
